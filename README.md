@@ -1,0 +1,2 @@
+# Python-task
+python exercises
